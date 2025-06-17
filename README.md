@@ -59,12 +59,12 @@
 ---
 
 ## 🖼️ Screenshots
-<img src="https://github.com/user-attachments/assets/2675ec54-098a-4dd9-a29f-5cc95072c3d4" height="250" alt="home_page">
-<img src="https://github.com/user-attachments/assets/f727ca36-6b6c-4b86-b5f3-9ac124b6bb54" height="250" alt="cart">
-<img src="https://github.com/user-attachments/assets/9a43107d-fb0d-404e-9907-63c9a00bdf0d" height="250" alt="admin_page">
-<img src="https://github.com/user-attachments/assets/1a869e9b-33c9-4fca-944b-c0b2d2299a25" height="250" alt="edit_delete">
-<img src="https://github.com/user-attachments/assets/38f583ea-c9ca-4210-970d-36db04f31b0b" height="250" alt="product_page">
-<img src="https://github.com/user-attachments/assets/f7729de2-a978-49fa-b420-8a5d2856037a" height="250" alt="completed_pending_orders">
+<img src="https://github.com/user-attachments/assets/2675ec54-098a-4dd9-a29f-5cc95072c3d4" height="300" alt="home_page">
+<img src="https://github.com/user-attachments/assets/f727ca36-6b6c-4b86-b5f3-9ac124b6bb54" height="300" alt="cart">
+<img src="https://github.com/user-attachments/assets/9a43107d-fb0d-404e-9907-63c9a00bdf0d" height="300" alt="admin_page">
+<img src="https://github.com/user-attachments/assets/1a869e9b-33c9-4fca-944b-c0b2d2299a25" height="300" alt="edit_delete">
+<img src="https://github.com/user-attachments/assets/38f583ea-c9ca-4210-970d-36db04f31b0b" height="300" alt="product_page">
+<img src="https://github.com/user-attachments/assets/f7729de2-a978-49fa-b420-8a5d2856037a" height="300" alt="completed_pending_orders">
 
 
 
